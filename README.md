@@ -89,19 +89,30 @@ Estrutura de Pastas
 ├─ firebaseConfig.js
 
 ├─ context/
+
 │   └─ AuthContext.js
 
 ├─ services/
+
 │   └─ firebaseAuth.js
 
+
 └─ screens/
+
     ├─ Login.js
+    
     ├─ Signup.js
+    
     ├─ Home.js
+    
     ├─ Favoritos.js
+    
     ├─ Perfil.js
+    
     ├─ EventDetails.js
+    
     ├─ CriarEvento.js
+    
     └─ EditarEvento.js
     
 Firestore Rules (v8)
