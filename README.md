@@ -140,6 +140,8 @@ service cloud.firestore {
     }
   }
 }
+
 https://github.com/ValBender/Event-Buddy-Guima/blob/main/Event%20Buddy%20%20Guima%20(1).png
+
 Licença
 MIT License Feel free to use and customize!
