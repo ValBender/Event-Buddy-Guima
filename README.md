@@ -80,14 +80,20 @@ Após login, ele navega automaticamente para a lista de eventos.
 
 O usuário permanece logado mesmo fechando o Expo Go. Apenas ao tocar em Sair no perfil, a sessão é removida.
 
+
 Estrutura de Pastas
 /
+
 ├─ App.js
+
 ├─ firebaseConfig.js
+
 ├─ context/
 │   └─ AuthContext.js
+
 ├─ services/
 │   └─ firebaseAuth.js
+
 └─ screens/
     ├─ Login.js
     ├─ Signup.js
@@ -97,6 +103,7 @@ Estrutura de Pastas
     ├─ EventDetails.js
     ├─ CriarEvento.js
     └─ EditarEvento.js
+    
 Firestore Rules (v8)
 js
 rules_version = '2';
